@@ -17,7 +17,7 @@ def banner():
     printf "                                                                          BY CYBER CRACKER  \n\n"
     printf "\e[1;32m                   ╔═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╗\n"
     printf "\e[1;32m                   ║    \e[0m\e[1;95m OTP and CALL Bombing POWERFULL CRACKING SCRIPT     \e[1;32m║\n"
-    printf "\e[1;32m                              \e[0m\e[1;95m Developed by:\e[31m CYBER CRACKER OFFICIAL      \n"
+    printf "\e[1;32m                              \e[0m\e[1;95m Developed by:\e[31m SVOPIIX \n"
     printf "\e[1;32m                   ║\e[0m\e[1;95m  ONLY INDIAN MOBILE NUMBERS ARE CURRENTLY SUPPOTED NOW \e[1;32m║\n"
     printf "\e[1;32m                   ╚═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╝\n"
     printf "\n"
