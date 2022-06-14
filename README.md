@@ -49,8 +49,8 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/cc-cybercracker-official/cc_sim_crack.git
-cd cc_sim_crack
+git clone https://github.com/svopiix/ccsim
+cd ccsim
 chmod +x requirement.sh
 bash requirement.sh
 chmod +x cc_sim_crack.py
@@ -69,8 +69,8 @@ ENTER THE COUNT OF SPERM: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 
 ## CONTRIBUTORS:
 
-- **CYBER CRACKER**<br>
-[-] Mail At:https:cybercracker66@gmail.com
+- **SVOPIIX**<br>
+[-] Mail At:https:svopii@knowledgemd.com
 
 
 
@@ -82,8 +82,8 @@ ENTER THE COUNT OF SPERM: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 Feel Free To Open An Issue...
 
 ```
-                 Mail:https://github.com/cc-cybercrackerofficial
-       Instagram account:https://www.instagram.com/cybercrackerofficial
+                 Mail:https://github.com/svopiix
+       Instagram account:https://www.instagram.com/svopiix
 ```
 
 <a href="https:
